@@ -74,3 +74,8 @@ Density models do not provide a consistent set of global coordinates which embed
 Isomap performed  better than PCA.
 
 Instead of measuring distance in pure Euclidean distance with the Pythagorean theorem, Isomap optimizes distances along a discovered manifold.
+
+# Comparison table 
+
+<img width="829" alt="Screen Shot 2021-11-10 at 8 46 14 PM" src="https://user-images.githubusercontent.com/70232901/141247955-d133a874-0f36-4fb4-b823-0856c7ebc46e.png">
+
